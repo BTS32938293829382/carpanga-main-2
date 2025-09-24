@@ -43,11 +43,11 @@ const App = () => {
 							color="violet"
 							variant="light"
 							component="a"
-							href="https://deniz.blue/"
+							href="https://bulutaltundis.com"
 							target="_blank"
 							leftSection={<IconExternalLink />}
 						>
-							deniz.blue
+							bulutaltundis.com
 						</Button>
 					</Group>
 				</Group>
